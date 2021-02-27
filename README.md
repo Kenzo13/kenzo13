@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MkX24qVzVZb5m/giphy.gif">
 </h1>
 
-<h2>Fala galerinha do meu canal, opa, errei. Talvez eu esteja viciada em youtube...</h2>
+<h2>Fala pessoal, aqui é o escolhido.</h2>
 
 Ooi, meu nome é Raphael Kenzo, tenho 20 anos e moro em São Paulo, Brasil. Apaixonado por tecnologia, desenvolvimento front-end,back-end e em fazer piadas.
 
