@@ -16,6 +16,6 @@ Ooi, meu nome é Raphael Kenzo, tenho 20 anos e moro em São Paulo, Brasil. Apai
 ver o que podemos fazer.
 
 - 📫 Meu linkedIn:
-  <a href="https://www.linkedin.com/in/laura-oliveira-pedro-03660019a/" target="_blank">
+  <a href="https://www.linkedin.com/in/raphael-kenzo-de-brito-amaro-094814171/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   <a>
